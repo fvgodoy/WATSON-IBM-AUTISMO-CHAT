@@ -1,0 +1,2419 @@
+{
+  "intents": [
+    {
+      "intent": "Autista_Desenvolver",
+      "examples": [
+        {
+          "text": "Como melhorar o autismo"
+        },
+        {
+          "text": "Como o autista se desenvolve"
+        },
+        {
+          "text": "O que fazer para ajudar um autista a se desenvolver?"
+        },
+        {
+          "text": "Crianças com autismo demoram mais pra andar?"
+        },
+        {
+          "text": "O que fazer para se desenvolver"
+        },
+        {
+          "text": "Dificuldade para andar"
+        },
+        {
+          "text": "Dificuldade na fala"
+        },
+        {
+          "text": "Crianças com autismo demoram mais para falar?"
+        },
+        {
+          "text": "Como ajudar a melhorar"
+        },
+        {
+          "text": "Como ajudar a se desenvolverem?"
+        }
+      ],
+      "description": "Perguntas para saber como uma pessoa com autismo pode se desenvolver"
+    },
+    {
+      "intent": "Autismo_tipos",
+      "examples": [
+        {
+          "text": "O autismo tem variações?"
+        },
+        {
+          "text": "tipos de autismo?"
+        },
+        {
+          "text": "O autismo tem tipos?"
+        },
+        {
+          "text": "Qual grau de autismo tem meu filho?"
+        },
+        {
+          "text": "Autismo tem tipos?"
+        },
+        {
+          "text": "Autismo tem grau?"
+        },
+        {
+          "text": "Como saber o tipo de autismo que meu filho tem?"
+        },
+        {
+          "text": "Grau do autismo?"
+        },
+        {
+          "text": "Quais são os Graus do autismo?"
+        },
+        {
+          "text": "Quais são os tipos de autismo?"
+        }
+      ],
+      "description": "Intenção para retornar os tipos/grao do autismo"
+    },
+    {
+      "intent": "Autis_Assistente_OQueE",
+      "examples": [
+        {
+          "text": "Você é um assistente?"
+        },
+        {
+          "text": "vc é um robo?"
+        },
+        {
+          "text": "o que é vc?"
+        },
+        {
+          "text": "Autis?"
+        },
+        {
+          "text": "Gostaria de saber o que é o Autis?"
+        },
+        {
+          "text": "O que é o Autis?"
+        },
+        {
+          "text": "O que o Autis é?"
+        },
+        {
+          "text": "O que ser você?"
+        },
+        {
+          "text": "O que é você?"
+        },
+        {
+          "text": "Você existe?"
+        },
+        {
+          "text": "Qual é seu nome?"
+        },
+        {
+          "text": "O Autis é humano?"
+        },
+        {
+          "text": "Como você se chama?"
+        },
+        {
+          "text": "Você é uma pessoa?"
+        },
+        {
+          "text": "Você é um robo?"
+        }
+      ],
+      "description": "Informações do Assistente Altis"
+    },
+    {
+      "intent": "Austimo_Agressividade",
+      "examples": [
+        {
+          "text": "Minha filha é nervosa"
+        },
+        {
+          "text": "Autismo possuí agressividade?"
+        },
+        {
+          "text": "Autismo irrita as crinças?"
+        },
+        {
+          "text": "Crianças com autismo são nervosas?"
+        },
+        {
+          "text": "Autismo deixa as crianças nervosas?"
+        },
+        {
+          "text": "Autismo deixa as crianças bravas?"
+        },
+        {
+          "text": "Autismo deixa meu filho irritado?"
+        },
+        {
+          "text": "Autismo deixa minha filha irritada?"
+        },
+        {
+          "text": "Autismo prejudica o comportamento do meu filho"
+        },
+        {
+          "text": "Autismo prejudica o comportamento da minha filha"
+        },
+        {
+          "text": "Meu filho é muito irritado"
+        },
+        {
+          "text": "Minha filha é muito irritada"
+        },
+        {
+          "text": "Minha filho é bravo"
+        },
+        {
+          "text": "Meu filho é nervoso"
+        },
+        {
+          "text": "Minha filha é muito brava"
+        },
+        {
+          "text": "Meu filho é muito bravo"
+        },
+        {
+          "text": "Minha filha é agressiva"
+        },
+        {
+          "text": "Meu filho é agressivo"
+        },
+        {
+          "text": "Minha filha é brava"
+        }
+      ],
+      "description": "Intenção de saber se crianças com autismo tem aitudes agressivas"
+    },
+    {
+      "intent": "Autismo_OQueE",
+      "examples": [
+        {
+          "text": "O que é autismo?"
+        },
+        {
+          "text": "Qual idade o autismo é mais aparente"
+        },
+        {
+          "text": "O autismo surge em qual idade"
+        },
+        {
+          "text": "Com quantos anos percebo o autismo"
+        },
+        {
+          "text": "Com quantos anos começa os sintomas do autismo"
+        },
+        {
+          "text": "Autismo tem cura?"
+        },
+        {
+          "text": "O que é o Autismo?"
+        },
+        {
+          "text": "Qual idade começa o autismo"
+        },
+        {
+          "text": "O que é o altismo?"
+        },
+        {
+          "text": "Gostaria de aber sobre autismo"
+        },
+        {
+          "text": "Autismo passa?"
+        },
+        {
+          "text": "Como pega autismo?"
+        },
+        {
+          "text": "O que o autismo faz?"
+        },
+        {
+          "text": "O que o autismo é?"
+        },
+        {
+          "text": "O que ser Autismo?"
+        },
+        {
+          "text": "Só criança tem autismo?"
+        },
+        {
+          "text": "Autismo é uma doença?"
+        }
+      ],
+      "description": "Intenção para explicar ao usuário o que é o Autismo"
+    },
+    {
+      "intent": "Saudação",
+      "examples": [
+        {
+          "text": "Boa tarde"
+        },
+        {
+          "text": "Boa noite"
+        },
+        {
+          "text": "Bom dia"
+        },
+        {
+          "text": "Oi"
+        },
+        {
+          "text": "Eai"
+        },
+        {
+          "text": "Olá"
+        },
+        {
+          "text": "Olá, Autis"
+        },
+        {
+          "text": "E ae"
+        },
+        {
+          "text": "Tudo bem?"
+        },
+        {
+          "text": "Opa"
+        },
+        {
+          "text": "E ai"
+        },
+        {
+          "text": "Eae"
+        },
+        {
+          "text": "Salve"
+        },
+        {
+          "text": "Fala"
+        }
+      ],
+      "description": "Apresentação do Altis"
+    },
+    {
+      "intent": "Autismo_Questionario",
+      "examples": [
+        {
+          "text": "Gostaria de fazer algum teste"
+        },
+        {
+          "text": "Gostaria de saber se você conhece algum teste?"
+        },
+        {
+          "text": "teste"
+        },
+        {
+          "text": "Quais sinais os autistas apresentam?"
+        },
+        {
+          "text": "Como saber se meu filho tem autismo?"
+        },
+        {
+          "text": "Existe alguma forma de saber se meu filho tem autismo?"
+        },
+        {
+          "text": "Forma simples de identificar uma criança com autismo?"
+        },
+        {
+          "text": "Qual o sinal de que meu filho pode ser autista?"
+        },
+        {
+          "text": "Forma simples de identificar uma pessoa com autismo?"
+        },
+        {
+          "text": "Questionário para autismo?"
+        },
+        {
+          "text": "Teste para autismo?"
+        },
+        {
+          "text": "Tem algum teste para saber?"
+        },
+        {
+          "text": "Existe alguma forma para saber?"
+        },
+        {
+          "text": "Você conhece algum teste?"
+        },
+        {
+          "text": "Existe algum teste?"
+        },
+        {
+          "text": "Já inventaram algum teste para autismo?"
+        }
+      ],
+      "description": "Interação para o usuário interagir com nosso questionario "
+    },
+    {
+      "intent": "Atitude_Pais",
+      "examples": [
+        {
+          "text": "O que a família deve fazer para ajudar"
+        },
+        {
+          "text": "O que eu posso fazer para ajudar minha filha com autismo"
+        },
+        {
+          "text": "O que eu posso fazer para ajudar meu filho com autismo"
+        },
+        {
+          "text": "O que fazer para ajudar minha filha"
+        },
+        {
+          "text": "O que fazer para ajudar meu filho"
+        },
+        {
+          "text": "O que os pais devem fazer quando descobrem"
+        },
+        {
+          "text": "Minha filha tem autismo o que eu faço?"
+        },
+        {
+          "text": "Meu filho tem autismo o que eu faço?"
+        },
+        {
+          "text": "O que fazer quando descobre que o filho tem autismo"
+        },
+        {
+          "text": "O que é preciso fazer para ajudar"
+        },
+        {
+          "text": "Como os pais devem agir após saber que o filho é autista"
+        },
+        {
+          "text": "Qual atitude os pais devem tomar"
+        }
+      ],
+      "description": "Intenção de perguntar o que os pais devem fazer após saber que tem um filho com autismo"
+    },
+    {
+      "intent": "Despedida",
+      "examples": [
+        {
+          "text": "Obrigada"
+        },
+        {
+          "text": "Tchau"
+        },
+        {
+          "text": "Obrigado"
+        },
+        {
+          "text": "Até mais"
+        },
+        {
+          "text": "Até a próxima"
+        },
+        {
+          "text": "Flw"
+        },
+        {
+          "text": "Falou"
+        },
+        {
+          "text": "Valeu"
+        },
+        {
+          "text": "Até um outro dia"
+        },
+        {
+          "text": "Vou nessa"
+        }
+      ],
+      "description": "Intenções para encerramento do chat bot"
+    },
+    {
+      "intent": "Autismo_Sintomas",
+      "examples": [
+        {
+          "text": "Minha filha tem 3 anos"
+        },
+        {
+          "text": "Como sei se sou autista?"
+        },
+        {
+          "text": "3 anos"
+        },
+        {
+          "text": "2 anos"
+        },
+        {
+          "text": "minha filha tem 1 ano"
+        },
+        {
+          "text": "Minha filha tem autismo?"
+        },
+        {
+          "text": "Como saber se minha filha tem autismo?"
+        },
+        {
+          "text": "estou com suspeita que meu filho tenha autismo"
+        },
+        {
+          "text": "Identificar transtornos"
+        },
+        {
+          "text": "Quais são os transtornos"
+        },
+        {
+          "text": "Como saber os sintomas dos autistas?"
+        },
+        {
+          "text": "Você pode me dizer os sintomas?"
+        },
+        {
+          "text": "Quais são os sintomas?"
+        },
+        {
+          "text": "Como identificar uma pessoa autista?"
+        },
+        {
+          "text": "o que uma pessoa que tem autismo faz?"
+        },
+        {
+          "text": "Sintomas mais comuns do autismo?"
+        },
+        {
+          "text": "Como saber se alguem tem autismo?"
+        },
+        {
+          "text": "Acho que minha filha pode ter autismo"
+        },
+        {
+          "text": "Acho que minha filha é autista"
+        },
+        {
+          "text": "Acho que meu filho tem autismo"
+        },
+        {
+          "text": "Acho que meu filho é autista"
+        },
+        {
+          "text": "Estou com suspeita de autismo"
+        },
+        {
+          "text": "estou com suspeita que minha filha tenha autismo"
+        },
+        {
+          "text": "meu filho tem 1 ano"
+        },
+        {
+          "text": "minha filha tem 4 anos"
+        },
+        {
+          "text": "minha filha tem 5 amos"
+        },
+        {
+          "text": "Quais são os sintomas de autismo?"
+        },
+        {
+          "text": "Quais são os principais sintomas de autismo?"
+        },
+        {
+          "text": "Acho que tenho autismo?"
+        },
+        {
+          "text": "Como descubro se minha filha é autista?"
+        }
+      ],
+      "description": "Intenção para identificar quais são os sintomas de Autismo"
+    },
+    {
+      "intent": "Autis_menu",
+      "examples": [
+        {
+          "text": "O que eu posso digitar"
+        },
+        {
+          "text": "Como você pode me ajudar?"
+        },
+        {
+          "text": "O que você pode fazer por mim"
+        },
+        {
+          "text": "O que eu posso perguntar para você?"
+        },
+        {
+          "text": "O que você pode fazer?"
+        },
+        {
+          "text": "Altis, acesse o menu"
+        },
+        {
+          "text": "Acesse o menu"
+        },
+        {
+          "text": "mostre-me as opções no menu"
+        },
+        {
+          "text": "Gostaria de ver o que você pode fazer"
+        },
+        {
+          "text": "Não sei que pergunta te fazer"
+        },
+        {
+          "text": "Você pode me ajudar?"
+        },
+        {
+          "text": "O que eu posso fazer?"
+        },
+        {
+          "text": "O que eu posso perguntar"
+        }
+      ],
+      "description": "Interações para acessar o menu do Altis"
+    },
+    {
+      "intent": "Autismo_tratamento",
+      "examples": [
+        {
+          "text": "Existe cura?"
+        },
+        {
+          "text": "O autismo tem cura?"
+        },
+        {
+          "text": "Como tratar uma criança que tem autismo?"
+        },
+        {
+          "text": "Você pode me dizer o tratamento?"
+        },
+        {
+          "text": "Tratamento infantil para autismo?"
+        },
+        {
+          "text": "Quais tratamentos existem para pessoas que tem autismo?"
+        },
+        {
+          "text": "Qual o melhor tratamento para autismo?"
+        },
+        {
+          "text": "Tratamentos para autismo?"
+        },
+        {
+          "text": "Qual tratamento fazer?"
+        },
+        {
+          "text": "Como curar do autismo?"
+        },
+        {
+          "text": "Como tratar uma pessoa com autismo?"
+        }
+      ],
+      "description": "Intenção para informar o tratamento que deve ser tomado a pessoas que tem autismo"
+    },
+    {
+      "intent": "Localização",
+      "examples": [
+        {
+          "text": "Aonde posso encontrar algum médico?"
+        },
+        {
+          "text": "Gostaria de localizar um especialista?"
+        },
+        {
+          "text": "Onde encontro um lugar com atendimento para autistas"
+        },
+        {
+          "text": "Onde posso ir para tratar de autismo"
+        },
+        {
+          "text": "Onde eles tratam de autismo?"
+        },
+        {
+          "text": "Onde tem clínica para autismo?"
+        },
+        {
+          "text": "Gostaria de encontrar algum especialista"
+        },
+        {
+          "text": "Quero saber aonde que fica a clinica"
+        },
+        {
+          "text": "Medico próximo a mim"
+        },
+        {
+          "text": "Onde levar alguém com autismo"
+        },
+        {
+          "text": "Qual endereço mais próximo para ajuda?"
+        },
+        {
+          "text": "Onde eu posso encontrar ajuda?"
+        },
+        {
+          "text": "Me passa a localização da clinica mais próxima"
+        },
+        {
+          "text": "Aonde posso encontrar ajuda?"
+        },
+        {
+          "text": "Aonde consigo ajuda mais próxima?"
+        },
+        {
+          "text": "Gostaria de saber se tem alguma clinica próxima a mim?"
+        },
+        {
+          "text": "Aonde posso encontrar uma clinica para me ajudar?"
+        },
+        {
+          "text": "Aonde posso encontrar um medico para me ajudar?"
+        }
+      ],
+      "description": "Localização da clinica mais próxima"
+    },
+    {
+      "intent": "Medico",
+      "examples": [
+        {
+          "text": "Que tipo de médico cuida de crianças com autismo?"
+        },
+        {
+          "text": "Em qual médico devo levar meu filho com autismo?"
+        },
+        {
+          "text": "Qual especialista atende crianças com autismo?"
+        },
+        {
+          "text": "Qual médico atende crianças com autismo?"
+        },
+        {
+          "text": "Qual especialista devo procurar?"
+        },
+        {
+          "text": "Qual médico devo procurar?"
+        },
+        {
+          "text": "Qual profissional devo procurar"
+        },
+        {
+          "text": "Qual profissional trata crianças com autismo?"
+        },
+        {
+          "text": "Onde posso levar meu filho com autismo?"
+        }
+      ],
+      "description": "Intenção de saber qual o médico que deve ser procurado"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Teste_questionario",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "NaoQuestionario",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "SimQuestionario",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-time",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Confirmação",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Não",
+          "synonyms": [
+            "Não tem ",
+            "Errado",
+            "Não tenho",
+            "não está certo",
+            "não está ok",
+            "negativo"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Sim",
+          "synonyms": [
+            "ok",
+            "Certo",
+            "isso",
+            "correto",
+            "beleza",
+            "blz",
+            "exato",
+            "exatamente"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-number",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-date",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Saudação_Período",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Boa noite",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Boa tarde",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Bom dia",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "webhooks": [
+    {
+      "url": "",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Não entendi :( , pode repetir por favor com Sim ou Não"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_2_1593040476130",
+      "event_name": "nomatch",
+      "dialog_node": "handler_7_1593042915088",
+      "previous_sibling": "handler_10_1593040476136"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "title": "Costuma ficar alinhando objetos, muitas vezes por tamanho, cor ou categoria?",
+            "options": [
+              {
+                "label": "Sim",
+                "value": {
+                  "input": {
+                    "text": "Sim"
+                  }
+                }
+              },
+              {
+                "label": "Não",
+                "value": {
+                  "input": {
+                    "text": "Não"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "slot_2_1593040476130",
+      "context": {
+        "temp": "<? input.text.contains('Sim') ? $temp+1 :$temp+0?>"
+      },
+      "event_name": "focus",
+      "dialog_node": "handler_10_1593040476136",
+      "previous_sibling": "handler_1_1593040476136"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1593040476130",
+      "context": {
+        "pergunta2": "@Confirmação"
+      },
+      "conditions": "@Confirmação",
+      "event_name": "input",
+      "dialog_node": "handler_1_1593040476136"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "title": "Pensamentos abstratos quase nulos, como não conseguir brincar de “faz de conta”, pois autistas são presos a conceitos concretos.",
+            "options": [
+              {
+                "label": "Sim",
+                "value": {
+                  "input": {
+                    "text": "Sim"
+                  }
+                }
+              },
+              {
+                "label": "Não",
+                "value": {
+                  "input": {
+                    "text": "Não"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "slot_10_1593040972354",
+      "context": {
+        "temp": "<? input.text.contains('Sim') ? $temp+1 :$temp+0?>"
+      },
+      "event_name": "focus",
+      "dialog_node": "handler_3_1593040972358",
+      "previous_sibling": "handler_2_1593040972358"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Não entendi :( , pode repetir por favor com Sim ou Não"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_10_1593040972354",
+      "event_name": "nomatch",
+      "dialog_node": "handler_4_1593042974006",
+      "previous_sibling": "handler_3_1593040972358"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_10_1593040972354",
+      "context": {
+        "pergunta12": "@Confirmação"
+      },
+      "conditions": "@Confirmação",
+      "event_name": "input",
+      "dialog_node": "handler_2_1593040972358"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Não entendi :( , pode repetir por favor com Sim ou Não"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_7_1593040959053",
+      "event_name": "nomatch",
+      "dialog_node": "handler_2_1593042955055",
+      "previous_sibling": "handler_7_1593040959057"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "title": "Não fala ou faz gestos como maneira de comunicação?",
+            "options": [
+              {
+                "label": "Sim",
+                "value": {
+                  "input": {
+                    "text": "Sim"
+                  }
+                }
+              },
+              {
+                "label": "Não",
+                "value": {
+                  "input": {
+                    "text": "Não"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "slot_7_1593040959053",
+      "context": {
+        "temp": "<? input.text.contains('Sim') ? $temp+1 :$temp+0?>"
+      },
+      "event_name": "focus",
+      "dialog_node": "handler_7_1593040959057",
+      "previous_sibling": "handler_1_1593040959057"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1593040959053",
+      "context": {
+        "pergunta8": "@Confirmação"
+      },
+      "conditions": "@Confirmação",
+      "event_name": "input",
+      "dialog_node": "handler_1_1593040959057"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_4_1593042462418",
+      "event_name": "focus",
+      "dialog_node": "handler_4_1593042462434",
+      "previous_sibling": "handler_9_1593042462434"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_4_1593042462418",
+      "event_name": "input",
+      "dialog_node": "handler_9_1593042462434"
+    },
+    {
+      "type": "slot",
+      "parent": "node_1_1593153314882",
+      "dialog_node": "slot_8_1593182084084"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_7_1593040165254",
+      "variable": "$pergunta3",
+      "dialog_node": "slot_2_1593040534448",
+      "previous_sibling": "slot_2_1593040476130"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_7_1593040165254",
+      "variable": "$pergunta9",
+      "dialog_node": "slot_4_1593040962327",
+      "previous_sibling": "slot_7_1593040959053"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_7_1593040165254",
+      "variable": "$pergunta11",
+      "dialog_node": "slot_10_1593040969008",
+      "previous_sibling": "slot_4_1593040965476"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_7_1593040165254",
+      "variable": "$pergunta2",
+      "dialog_node": "slot_2_1593040476130",
+      "previous_sibling": "slot_4_1593040197807"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_7_1593040165254",
+      "variable": "$pergunta1",
+      "dialog_node": "slot_4_1593040197807",
+      "previous_sibling": "response_8_1593204187293"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "De acordo com suas respostas não há suspeitas"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "<strong>Posso te ajudar com algo mais?</strong>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1593040165254",
+      "conditions": "$temp < 4",
+      "dialog_node": "response_8_1593204187293",
+      "previous_sibling": "response_6_1593203749120"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_7_1593040165254",
+      "variable": "$pergunta5",
+      "dialog_node": "slot_4_1593040931740",
+      "previous_sibling": "slot_5_1593040537439"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_7_1593040165254",
+      "variable": "$pergunta4",
+      "dialog_node": "slot_5_1593040537439",
+      "previous_sibling": "slot_2_1593040534448"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_7_1593040165254",
+      "variable": "$pergunta8",
+      "dialog_node": "slot_7_1593040959053",
+      "previous_sibling": "slot_8_1593040956458"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_7_1593040165254",
+      "variable": "$pergunta12",
+      "dialog_node": "slot_10_1593040972354",
+      "previous_sibling": "slot_10_1593040969008"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_7_1593040165254",
+      "variable": "$pergunta7",
+      "dialog_node": "slot_8_1593040956458",
+      "previous_sibling": "slot_8_1593040953772"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_7_1593040165254",
+      "variable": "$pergunta10",
+      "dialog_node": "slot_4_1593040965476",
+      "previous_sibling": "slot_4_1593040962327"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_7_1593040165254",
+      "variable": "$pergunta6",
+      "dialog_node": "slot_8_1593040953772",
+      "previous_sibling": "slot_4_1593040931740"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "De acordo com suas respostas recomendo você a procurar um Neurologista"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Gostaria de localizar um especialista?",
+                "value": {
+                  "input": {
+                    "text": "Localizar um especialista"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_7_1593040165254",
+      "conditions": "$temp > 4",
+      "dialog_node": "response_6_1593203749120"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Não entendi :( , pode repetir por favor com Sim ou Não"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_4_1593040965476",
+      "event_name": "nomatch",
+      "dialog_node": "handler_4_1593042964773",
+      "previous_sibling": "handler_7_1593040965480"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "title": "Girar objetos como uma obsessão, sem função aparente, como ventiladores, rodas ou máquina de lavar?",
+            "options": [
+              {
+                "label": "Sim",
+                "value": {
+                  "input": {
+                    "text": "Sim"
+                  }
+                }
+              },
+              {
+                "label": "Não",
+                "value": {
+                  "input": {
+                    "text": "Não"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "slot_4_1593040965476",
+      "context": {
+        "temp": "<? input.text.contains('Sim') ? $temp+1 :$temp+0?>"
+      },
+      "event_name": "focus",
+      "dialog_node": "handler_7_1593040965480",
+      "previous_sibling": "handler_8_1593040965480"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_4_1593040965476",
+      "context": {
+        "pergunta10": "@Confirmação"
+      },
+      "conditions": "@Confirmação",
+      "event_name": "input",
+      "dialog_node": "handler_8_1593040965480"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "title": "A criança tem dificuldade em manter contato visual por mais de 2 segundos?",
+            "options": [
+              {
+                "label": "Sim",
+                "value": {
+                  "input": {
+                    "text": "Sim"
+                  }
+                }
+              },
+              {
+                "label": "Não",
+                "value": {
+                  "input": {
+                    "text": "Não"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "slot_4_1593040197807",
+      "context": {
+        "temp": "<? input.text.contains('Sim') ? $temp+1 :$temp+0?>"
+      },
+      "event_name": "focus",
+      "dialog_node": "handler_6_1593040197825",
+      "previous_sibling": "handler_5_1593040197825"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Não entendi :( , pode repetir por favor com Sim ou Não"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_4_1593040197807",
+      "conditions": "",
+      "event_name": "nomatch",
+      "dialog_node": "handler_7_1593042836141",
+      "previous_sibling": "handler_6_1593040197825"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_4_1593040197807",
+      "context": {
+        "pergunta1": "@Confirmação"
+      },
+      "conditions": "@Confirmação",
+      "event_name": "input",
+      "dialog_node": "handler_5_1593040197825"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1593033393666",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1593033393683",
+      "previous_sibling": "handler_5_1593033393683"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1593033393666",
+      "context": {
+        "Saudacao_Periodo": "@Saudação_Período"
+      },
+      "conditions": "@Saudação_Período",
+      "event_name": "input",
+      "dialog_node": "handler_5_1593033393683"
+    },
+    {
+      "type": "standard",
+      "title": "Retorno questionário",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok, Posso ajudar em algo mais? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1593173365254",
+      "conditions": "@Teste_questionario:NaoQuestionario",
+      "dialog_node": "node_9_1593174543348",
+      "previous_sibling": "node_7_1593040165254"
+    },
+    {
+      "type": "frame",
+      "title": "Questionario (Perguntas)",
+      "parent": "node_6_1593173365254",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "@Teste_questionario:SimQuestionario",
+      "dialog_node": "node_7_1593040165254",
+      "digress_out": "allow_all",
+      "digress_out_slots": "not_allowed"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "title": "Não demostra interesse por outras crianças ou isolar-se, ainda que hajam pessoas no ambiente?",
+            "options": [
+              {
+                "label": "Sim",
+                "value": {
+                  "input": {
+                    "text": "Sim"
+                  }
+                }
+              },
+              {
+                "label": "Não ",
+                "value": {
+                  "input": {
+                    "text": "Não"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "slot_5_1593040537439",
+      "context": {
+        "temp": "<? input.text.contains('Sim') ? $temp+1 :$temp+0?>"
+      },
+      "event_name": "focus",
+      "dialog_node": "handler_8_1593040537444",
+      "previous_sibling": "handler_7_1593040537444"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Não entendi :( , pode repetir por favor com Sim ou Não"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_5_1593040537439",
+      "event_name": "nomatch",
+      "dialog_node": "handler_7_1593042934494",
+      "previous_sibling": "handler_8_1593040537444"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1593040537439",
+      "context": {
+        "pergunta4": "@Confirmação"
+      },
+      "conditions": "@Confirmação",
+      "event_name": "input",
+      "dialog_node": "handler_7_1593040537444"
+    },
+    {
+      "type": "slot",
+      "parent": "node_6_1593031989712",
+      "variable": "$Saudacao_Periodo",
+      "dialog_node": "slot_8_1593033393666"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "title": "Costuma não atender pelo nome quando chamado, as vezes confundido com problemas auditivos?",
+            "options": [
+              {
+                "label": "Sim",
+                "value": {
+                  "input": {
+                    "text": "Sim"
+                  }
+                }
+              },
+              {
+                "label": "Não",
+                "value": {
+                  "input": {
+                    "text": "Não"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "slot_2_1593040534448",
+      "context": {
+        "temp": "<? input.text.contains('Sim') ? $temp+1 :$temp+0?>"
+      },
+      "event_name": "focus",
+      "dialog_node": "handler_10_1593040534452",
+      "previous_sibling": "handler_5_1593040534452"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Não entendi :( , pode repetir por favor com Sim ou Não"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_2_1593040534448",
+      "event_name": "nomatch",
+      "dialog_node": "handler_10_1593042922118",
+      "previous_sibling": "handler_10_1593040534452"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1593040534448",
+      "context": {
+        "pergunta3": "@Confirmação"
+      },
+      "conditions": "@Confirmação",
+      "event_name": "input",
+      "dialog_node": "handler_5_1593040534452"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Não entendi :( , pode repetir por favor com Sim ou Não"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_8_1593040956458",
+      "event_name": "nomatch",
+      "dialog_node": "handler_1_1593042950126",
+      "previous_sibling": "handler_3_1593040956464"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "title": "Tem movimentos repetitivos sem função aparente, como exemplo balançar as mãos rapidamente soltas?",
+            "options": [
+              {
+                "label": "Sim",
+                "value": {
+                  "input": {
+                    "text": "Sim"
+                  }
+                }
+              },
+              {
+                "label": "Não",
+                "value": {
+                  "input": {
+                    "text": "Não"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "slot_8_1593040956458",
+      "context": {
+        "temp": "<? input.text.contains('Sim') ? $temp+1 :$temp+0?>"
+      },
+      "event_name": "focus",
+      "dialog_node": "handler_3_1593040956464",
+      "previous_sibling": "handler_6_1593040956464"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1593040956458",
+      "context": {
+        "pergunta7": "@Confirmação"
+      },
+      "conditions": "@Confirmação",
+      "event_name": "input",
+      "dialog_node": "handler_6_1593040956464"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Não entendi :( , pode repetir por favor com Sim ou Não"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_10_1593040969008",
+      "event_name": "nomatch",
+      "dialog_node": "handler_9_1593042969136",
+      "previous_sibling": "handler_9_1593040969013"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "title": "Interesse restrito ou hiperfoco, como obsessão por algum assunto específico?",
+            "options": [
+              {
+                "label": "Sim",
+                "value": {
+                  "input": {
+                    "text": "Sim"
+                  }
+                }
+              },
+              {
+                "label": "Não",
+                "value": {
+                  "input": {
+                    "text": "Não"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "slot_10_1593040969008",
+      "context": {
+        "temp": "<? input.text.contains('Sim') ? $temp+1 :$temp+0?>"
+      },
+      "event_name": "focus",
+      "dialog_node": "handler_9_1593040969013",
+      "previous_sibling": "handler_7_1593040969013"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_10_1593040969008",
+      "context": {
+        "pergunta11": "@Confirmação"
+      },
+      "conditions": "@Confirmação",
+      "event_name": "input",
+      "dialog_node": "handler_7_1593040969013"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "title": "Não brinca com brinquedos de forma convencional ou fica focado em apenas uma parte do brinquedo?",
+            "options": [
+              {
+                "label": "Sim",
+                "value": {
+                  "input": {
+                    "text": "Sim"
+                  }
+                }
+              },
+              {
+                "label": "Não",
+                "value": {
+                  "input": {
+                    "text": "Não"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "slot_8_1593040953772",
+      "context": {
+        "temp": "<? input.text.contains('Sim') ? $temp+1 :$temp+0?>"
+      },
+      "event_name": "focus",
+      "dialog_node": "handler_5_1593040953780",
+      "previous_sibling": "handler_10_1593040953780"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Não entendi :( , pode repetir por favor com Sim ou Não"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_8_1593040953772",
+      "event_name": "nomatch",
+      "dialog_node": "handler_1_1593042945144",
+      "previous_sibling": "handler_5_1593040953780"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1593040953772",
+      "context": {
+        "pergunta6": "@Confirmação"
+      },
+      "conditions": "@Confirmação",
+      "event_name": "input",
+      "dialog_node": "handler_10_1593040953780"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "title": "Tem ecolalia, ou seja, repetir palavras em momentos inadequados sem devida função?",
+            "options": [
+              {
+                "label": "Sim",
+                "value": {
+                  "input": {
+                    "text": "Sim"
+                  }
+                }
+              },
+              {
+                "label": "Não",
+                "value": {
+                  "input": {
+                    "text": "Não"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "slot_4_1593040962327",
+      "context": {
+        "temp": "<? input.text.contains('Sim') ? $temp+1 :$temp+0?>"
+      },
+      "event_name": "focus",
+      "dialog_node": "handler_10_1593040962334",
+      "previous_sibling": "handler_1_1593040962334"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Não entendi :( , pode repetir por favor com Sim ou Não"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_4_1593040962327",
+      "event_name": "nomatch",
+      "dialog_node": "handler_4_1593042960527",
+      "previous_sibling": "handler_10_1593040962334"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_4_1593040962327",
+      "context": {
+        "pergunta9": "@Confirmação"
+      },
+      "conditions": "@Confirmação",
+      "event_name": "input",
+      "dialog_node": "handler_1_1593040962334"
+    },
+    {
+      "type": "slot",
+      "parent": "node_3_1593042090065",
+      "dialog_node": "slot_4_1593042462418"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_8_1593182084084",
+      "event_name": "focus",
+      "dialog_node": "handler_6_1593182084108",
+      "previous_sibling": "handler_2_1593182084108"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_8_1593182084084",
+      "event_name": "input",
+      "dialog_node": "handler_2_1593182084108"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "title": "Fica preso em rotinas, sempre querer fazer as mesmas coisas, no mesmo horário e até mesmo objetos na mesma posição.",
+            "options": [
+              {
+                "label": "Sim",
+                "value": {
+                  "input": {
+                    "text": "Sim"
+                  }
+                }
+              },
+              {
+                "label": "Não",
+                "value": {
+                  "input": {
+                    "text": "Não"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "slot_4_1593040931740",
+      "context": {
+        "temp": "<? input.text.contains('Sim') ? $temp+1 :$temp+0?>"
+      },
+      "event_name": "focus",
+      "dialog_node": "handler_9_1593040931745",
+      "previous_sibling": "handler_5_1593040931745"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Não entendi :( , pode repetir por favor com Sim ou Não"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_4_1593040931740",
+      "event_name": "nomatch",
+      "dialog_node": "handler_10_1593042940617",
+      "previous_sibling": "handler_9_1593040931745"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_4_1593040931740",
+      "context": {
+        "pergunta5": "@Confirmação"
+      },
+      "conditions": "@Confirmação",
+      "event_name": "input",
+      "dialog_node": "handler_5_1593040931745"
+    },
+    {
+      "type": "standard",
+      "title": "Autismo_desenvolver",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Para ajudar uma criança autista, é necessário aprender tudo o que puder sobre seu transtorno primeiro, já que elas não conseguem compreender a maneira como outras pessoas se comunicam e por isso precisam de instruções bastante explícitas e metódicas sobre como se comportar ou falar com outros."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Autista_Desenvolver",
+      "dialog_node": "node_8_1593152352709",
+      "previous_sibling": "node_5_1593106295743"
+    },
+    {
+      "type": "standard",
+      "title": "Autismo_Agressividade",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Na maioria das vezes, crianças com autismo costumam ter atitudes agressivas quando contrariadas. Isso ocorre porque o autismo é um transtorno que leva a intensos e excessivos déficits na comunicação e interação sociais."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Austimo_Agressividade",
+      "dialog_node": "node_10_1593155705871",
+      "previous_sibling": "node_8_1593152352709"
+    },
+    {
+      "type": "standard",
+      "title": "Autismo_OQueE",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O autismo é um transtorno de desenvolvimento que compromete as habilidade de comunicação e interação social, que costuma ser identificado nos primeiros anos de vida\n<a style=\"text-decoration: none;\" target=\"_blank\" href=\"https://www.minhavida.com.br/saude/temas/autismo\">Clique aqui e veja mais</a>\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "<br><h4>Posso ajudar com algo mais? </h4>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Autismo_OQueE",
+      "dialog_node": "node_3_1593042090065",
+      "previous_sibling": "node_9_1593094950357"
+    },
+    {
+      "type": "standard",
+      "title": "Contato",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Localizamos uma unidade para tratamento perto de você (Sua localização: <em> R. lins de Vasconcelos, 1222 <em> )"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "<h3> Encontrei essa clínica médica próxima a você <h3>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14627.590130423621!2d-46.62717463620419!3d-23.572123352240574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xce06e56854f0867e!2sAma-assoc%20de%20Amigos%20do%20Autista!5e0!3m2!1spt-BR!2sbr!4v1593038084723!5m2!1spt-BR!2sbr\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "<br><h4>Posso ajudar com algo mais? </h4>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Localização",
+      "digress_in": "returns",
+      "dialog_node": "node_8_1593037290702",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_1_1593153314882"
+    },
+    {
+      "type": "standard",
+      "title": "Medico",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Os especialistas médicos que tem mais experiência com tal diagnóstico são os psiquiatras infantis ou neuropediatras."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Quer que eu localize o especialista mais próximo de você?",
+                "value": {
+                  "input": {
+                    "text": "Aonde consigo ajuda mais próxima?"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#Medico",
+      "dialog_node": "node_1_1593153314882",
+      "previous_sibling": "node_7_1593152970903"
+    },
+    {
+      "type": "standard",
+      "title": "Despedida_Site_Autismo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Caso queira saber mais afundo acesse: <a href=\"https://blog.ieac.net.br/category/autismo/\">Clique aqui</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1593039041499"
+      },
+      "conditions": "#Despedida",
+      "dialog_node": "node_8_1593154392172",
+      "previous_sibling": "node_6_1593173365254"
+    },
+    {
+      "type": "standard",
+      "title": "Autis_Menu",
+      "output": {
+        "generic": [
+          {
+            "title": "Abaixo estão algumas perguntas que é possível fazer para mim.",
+            "options": [
+              {
+                "label": "O que é autismo?",
+                "value": {
+                  "input": {
+                    "text": "O que é autismo?"
+                  }
+                }
+              },
+              {
+                "label": "Qual é o tratamento?",
+                "value": {
+                  "input": {
+                    "text": "Qual é o tratamento?"
+                  }
+                }
+              },
+              {
+                "label": "Quais são os sintomas?",
+                "value": {
+                  "input": {
+                    "text": "Quais são os sintomas?"
+                  }
+                }
+              },
+              {
+                "label": "Gostaria de realizar um teste.",
+                "value": {
+                  "input": {
+                    "text": "Realizar um teste"
+                  }
+                }
+              },
+              {
+                "label": "Localização do especialista mais próximo.",
+                "value": {
+                  "input": {
+                    "text": "Qual a clínica mais próxima?"
+                  }
+                }
+              },
+              {
+                "label": "Como o autista se desenvolve?",
+                "value": {
+                  "input": {
+                    "text": "Como o autista se desenvolve"
+                  }
+                }
+              },
+              {
+                "label": "Autismo deixa as crianças nervosas?",
+                "value": {
+                  "input": {
+                    "text": "Autismo deixa as crianças nervosas?"
+                  }
+                }
+              },
+              {
+                "label": "O que eu posso fazer para ajudar meu filho com autismo?",
+                "value": {
+                  "input": {
+                    "text": "O que eu posso fazer para ajudar meu filho com autismo"
+                  }
+                }
+              },
+              {
+                "label": "Qual médico devo procurar?",
+                "value": {
+                  "input": {
+                    "text": "Qual médico devo procurar?"
+                  }
+                }
+              },
+              {
+                "label": "O que é o Autis?",
+                "value": {
+                  "input": {
+                    "text": "O que é você?"
+                  }
+                }
+              },
+              {
+                "label": "Quais são os tipos de autismo?",
+                "value": {
+                  "input": {
+                    "text": "Quais são os tipos de autismo?"
+                  }
+                }
+              },
+              {
+                "label": "Quais são os graos do autismo?",
+                "value": {
+                  "input": {
+                    "text": "Quais são os graos do autismo?"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#Autis_menu",
+      "dialog_node": "node_10_1593094365281",
+      "previous_sibling": "node_6_1593031989712"
+    },
+    {
+      "type": "standard",
+      "title": "Questionário (Saudação)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Você gostaria de realizar o teste? <br> <strong>Importante destacar que 3 ou mais afirmações já justificam a suspeita para procurar um Neuropediatra.<strong>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "O teste tem 12 perguntas de sim ou não, gostaria de realizar?",
+            "options": [
+              {
+                "label": "Sim ",
+                "value": {
+                  "input": {
+                    "text": "SimQuestionario"
+                  }
+                }
+              },
+              {
+                "label": "Não",
+                "value": {
+                  "input": {
+                    "text": "NaoQuestionario"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "context": {
+        "temp": 0
+      },
+      "conditions": "#Autismo_Questionario",
+      "dialog_node": "node_6_1593173365254",
+      "previous_sibling": "node_8_1593037290702"
+    },
+    {
+      "type": "standard",
+      "title": "Despedida",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Espero ter conseguido ajudar. Volte sempre!"
+              },
+              {
+                "text": "Espero ter ajudado. Volte logo! "
+              },
+              {
+                "text": "Até a próxima! Espero ter ajudado. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Despedida",
+      "dialog_node": "node_2_1593039041499",
+      "previous_sibling": "node_8_1593154392172"
+    },
+    {
+      "type": "standard",
+      "title": "Autismo_tratamentos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<h4>O tratamento é feito por meio de terapia</h4>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "Até o momento, não há remédios específicos para tratar o autismo, embora esta seja uma prioridade das pesquisas, com diferentes medicamentos em teste. O reconhecimento precoce, assim como as terapias comportamentais, educacionais e familiares podem reduzir os sintomas, além de oferecer um pilar de apoio ao desenvolvimento e à aprendizagem."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "<br><h4>Posso ajudar com algo mais? </h4>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Autismo_tratamento",
+      "dialog_node": "node_5_1593106295743",
+      "previous_sibling": "node_3_1593104447532"
+    },
+    {
+      "type": "standard",
+      "title": "O que é o Autis",
+      "output": {
+        "generic": [
+          {
+            "source": "https://1.bp.blogspot.com/-Vab-9RDRhCg/XvZRcpqYq3I/AAAAAAAAAy8/ugOAbm4pMfER6zpdRzNRDNSNPGKFOr7bQCK4BGAsYHg/s500/autis.jfif",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Eu sou um assistente virtual chamado Autis, estou aqui para te ajudar e esclarecer suas dúvidas referente ao Autismo."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Clique aqui para saber mais coisas que eu posso fazer",
+                "value": {
+                  "input": {
+                    "text": "Acesse o menu"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#Autis_Assistente_OQueE",
+      "dialog_node": "node_9_1593094950357",
+      "previous_sibling": "node_10_1593094365281"
+    },
+    {
+      "type": "standard",
+      "title": "Em outros casos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Você poderia ser mais especifico?"
+              },
+              {
+                "text": "Não entendi muito bem, poderia ser mais especifico?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1593094365281"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Em outros casos",
+      "previous_sibling": "node_2_1593039041499",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Autismo_sintomas",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O alcance e a gravidade dos sintomas podem variar amplamente. Os sintomas mais comuns incluem dificuldade de comunicação, dificuldade com interações sociais, interesses obsessivos e comportamentos repetitivos."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "<h4>Requer um diagnóstico médico</h4>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Você gostaria de fazer um teste?",
+                "value": {
+                  "input": {
+                    "text": "teste"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "#Autismo_Sintomas",
+      "dialog_node": "node_3_1593104447532",
+      "previous_sibling": "node_3_1593042090065"
+    },
+    {
+      "type": "standard",
+      "title": "Atitude_Pais",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O indicado é que os pais levem a criança para avaliação de um psicólogo especialista ou neurologista, e, logo confirmado o autismo, busquem orientação de um profissional, para que os responsáveis saibam como prosseguir com a melhor educação para o desenvolvimento do autista."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Atitude_Pais",
+      "dialog_node": "node_7_1593152970903",
+      "previous_sibling": "node_10_1593155705871"
+    },
+    {
+      "type": "frame",
+      "title": "Saudação",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá <? $Saudacao_Periodo?>, como posso te ajudar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "<?context.clear()?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Saudação",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_6_1593031989712",
+      "previous_sibling": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "Bem-vindo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá, eu sou <b>Autis</b>. Estou aqui para te auxiliar em informações sobre o Autismo. <br> Como posso ajudar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Bem-vindo"
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "Como eu me chamo?"
+    },
+    {
+      "text": "não"
+    },
+    {
+      "text": "Palmeiras tem mundial?"
+    },
+    {
+      "text": "Qual é a minha idade?"
+    },
+    {
+      "text": "Qual é melhor MC ou Bk?"
+    }
+  ],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Você quis dizer:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "Nenhuma das anteriores"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Você quis dizer:"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "Altis 2.0",
+  "language": "pt-br",
+  "description": "Criando Altis melhorado"
+}
